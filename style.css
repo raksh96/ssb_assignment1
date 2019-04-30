@@ -1,0 +1,10 @@
+body{
+	margin: 50px 50px;
+	background: lavender;
+	font-family: sans-serif;
+}
+.design{
+	text-align: center;
+	margin: 0 0 20px;
+	box-shadow: grey;
+}
